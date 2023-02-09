@@ -29,8 +29,7 @@ while(i<=20){
     i++
 }*/
 
-/*
-TASK #5
+/*TASK #5
 - Використовуючи данні з масиву, за допомоги document.write та циклу
 побудувати структуру по шаблону
 Масив:
@@ -48,14 +47,13 @@ TASK #5
     </ul>
 
 let listOfItems = ['html', 'css', 'javascript', 'mysql', 'mongodb', 'react', 'angular', 'node.js'];
-for (const item of listOfItems) {
-    document.write(`<ul>`);
+document.write(`<ul>`);
+    for (const item of listOfItems) {
         document.write(`<li>${item}</li>`);
-    document.write(`</ul>`);
-}*/
+    }
+document.write(`</ul>`);*/
 
-/*
-TASK #6
+/*TASK #6
 Використовуючи данні з масиву, за допомоги document.write та циклу
 побудувати структуру по шаблону  Зробити адекватну стилізацію
 Великими літерами прописанні властивості об'єкту які потрібно впровадити в шаблон
@@ -124,6 +122,7 @@ for (let product of products) {
 }
 */
 
+
 /*
 TASK #7
 є масив
@@ -159,9 +158,19 @@ let users = [
     {name: 'max', age: 31, status: true}
 ];
 for (const user of users) {
-    for(let key in user){
-        if (key == "status" && user[key] == true){
-            console.log(user)
-        }
+    if(user.status){
+        document.write(`${user.name} ${user.age} ${user.status}----`  )
     }
-*/
+}
+
+for (const user of users) {
+    if(!user.status){
+        document.write(`${user.name} ${user.age} ${user.status}----`  )
+    }
+}
+
+for (const user of users) {
+    if(user.age > 30){
+        document.write(`${user.name} ${user.age} ${user.status}----`  )
+    }
+}*/
