@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ea9eb30-7e54-4339-84a6-d336090e6b5a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/extraTasksLesson3/extra.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extraTasksLesson3/extraTasks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extraTasksLesson3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extraTasksLesson3/normalise.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework3/homework3.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework3/homework3.js" afterDir="false" />
     </list>
@@ -18,6 +22,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -41,6 +46,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -60,7 +66,9 @@
       <workItem from="1675495576142" duration="7724000" />
       <workItem from="1675845870037" duration="6212000" />
       <workItem from="1675874900419" duration="780000" />
-      <workItem from="1675926737837" duration="714000" />
+      <workItem from="1675926737837" duration="5517000" />
+      <workItem from="1676010676722" duration="6848000" />
+      <workItem from="1676102021689" duration="9277000" />
     </task>
     <task id="LOCAL-00001" summary="Домашя робота js1">
       <created>1675324094404</created>
@@ -83,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675875083761</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Виправив помилки і доробив завдання 7">
+      <created>1675927587851</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675927587851</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +108,7 @@
     <MESSAGE value="Домашя робота js1" />
     <MESSAGE value="Домашя робота js2" />
     <MESSAGE value="Домашя робота js3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашя робота js3" />
+    <MESSAGE value="Виправив помилки і доробив завдання 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Виправив помилки і доробив завдання 7" />
   </component>
 </project>
