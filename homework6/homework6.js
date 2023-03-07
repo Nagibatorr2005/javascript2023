@@ -199,6 +199,7 @@ sort = cards.reduce((a,current) => {
 console.log(sort)*/
 
 /*взяти з arrays.js (який лежить в папці 2023 plan) масив coursesArray*/
+/*
 let coursesArray = [
     {
         title: 'JavaScript Complex',
@@ -268,6 +269,7 @@ let coursesArray = [
         modules: ['html', 'css', 'js', 'mysql', 'mongodb', 'react', 'angular', 'aws', 'docker', 'git', 'sass']
     }
 ]
+*/
 
 /*-написати пошук всіх об'єктів, в який в modules є sass
 console.log(coursesArray.filter((course) => course.modules.includes('sass')));*/
@@ -275,3 +277,26 @@ console.log(coursesArray.filter((course) => course.modules.includes('sass')));*/
 /*
 -написати пошук всіх об'єктів, в який в modules є docker
 console.log(coursesArray.filter((course) => course.modules.includes('docker')))*/
+let users = [
+{name: 'vasya', age: 31, status: false},
+{name: 'petya', age: 30, status: true},
+{name: 'kolya', age: 29, status: true},
+{name: 'olya', age: 28, status: false},
+{name: 'max', age: 30, status: true},
+{name: 'anya', age: 31, status: false},
+{name: 'oleg', age: 28, status: false},
+{name: 'andrey', age: 29, status: true},
+{name: 'masha', age: 30, status: true},
+{name: 'olya', age: 31, status: false},
+{name: 'max', age: 31, status: true}
+];
+let reduce = users.reduce(function(accamulator,user){
+    if(user.status === "true"){
+        accamulator[0].push(user)
+    }else{
+        accamulator[1].push(user)
+    }
+    return accamulator
+} [ [], []])
+console.log(reduce);
+

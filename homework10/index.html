@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JS10</title>
+
+
+
+</head>
+<body>
+<script src="homework10.js"></script>
+<!--Стоврити форму з трьома полями для name,sruname,age та кнопкою.
+При натисканні на кнопку зчитати данні з полів, та вивести об'єкт в документ. ' +
+'Іншими словами : заповниои форму, натиснули кнопку, під формою з'явився блок з вашим об'єктом*/
+<form id="myForm">
+    <input type="text" id="name" name="name" placeholder  = 'Enter user name'><br>
+    <input type="text" id="surname" name="surname" placeholder = 'Enter user surname'><br>
+    <input type="number" id="age" name="age" placeholder  = 'Enter user age'><br>
+    <button type="button" id="submitButton">Submit</button>
+</form>
+<div id="output"></div>
+<script>
+    let form = document.getElementById("myForm");
+    let button = document.getElementById("submitButton");
+    button.addEventListener("click", function(event) {
+        let name = form.elements["name"].value;
+        let surname = form.elements["surname"].value;
+        let age = form.elements["age"].value;
+        let output = document.getElementById("output");
+        output.innerHTML = `<div>${name}</div> <div>${surname}</div> <div>${age}</div>`;
+    });
+</script>-->
+
+<!--є сторінка, на якій є блок, я кому знаходиьтся цифра. написати код,
+який при кожному перезавантажені сторінки буде додавати до неї +1-->
+<div id="myDiv">19</div>
+
+
+
+
+</body>
+</html>

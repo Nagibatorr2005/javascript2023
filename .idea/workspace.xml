@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ea9eb30-7e54-4339-84a6-d336090e6b5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/extraTasksLesson3/extra.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extraTasksLesson3/extraTasks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extraTasksLesson3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extraTasksLesson3/normalise.css" afterDir="false" />
+    <list default="true" id="3ea9eb30-7e54-4339-84a6-d336090e6b5a" name="Changes" comment="Домашнє завдання до лекції 8">
+      <change afterPath="$PROJECT_DIR$/extraTaskLesson4/extraTask4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extraTaskLesson4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework10/homework10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework10/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework3/homework3.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework3/homework3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework6/homework6.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/homework6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework9/homework9.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework9/homework9.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -51,6 +53,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -68,7 +71,25 @@
       <workItem from="1675874900419" duration="780000" />
       <workItem from="1675926737837" duration="5517000" />
       <workItem from="1676010676722" duration="6848000" />
-      <workItem from="1676102021689" duration="9277000" />
+      <workItem from="1676102021689" duration="9974000" />
+      <workItem from="1676121606217" duration="3421000" />
+      <workItem from="1676143978456" duration="959000" />
+      <workItem from="1676191689319" duration="10606000" />
+      <workItem from="1676454117571" duration="5061000" />
+      <workItem from="1676965908767" duration="5429000" />
+      <workItem from="1677048711740" duration="8126000" />
+      <workItem from="1677227389528" duration="3441000" />
+      <workItem from="1677425578597" duration="5334000" />
+      <workItem from="1677480536566" duration="926000" />
+      <workItem from="1677567822779" duration="7683000" />
+      <workItem from="1677665858916" duration="6821000" />
+      <workItem from="1677696077919" duration="1977000" />
+      <workItem from="1677741924494" duration="6789000" />
+      <workItem from="1677922365076" duration="15254000" />
+      <workItem from="1678006774152" duration="15420000" />
+      <workItem from="1678096890105" duration="4861000" />
+      <workItem from="1678134234387" duration="2390000" />
+      <workItem from="1678169844539" duration="2583000" />
     </task>
     <task id="LOCAL-00001" summary="Домашя робота js1">
       <created>1675324094404</created>
@@ -98,7 +119,49 @@
       <option name="project" value="LOCAL" />
       <updated>1675927587851</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Додаткові завдання до лекції 3">
+      <created>1676111643599</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676111643599</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Домашнє завдання до лекції 4">
+      <created>1676276972885</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676276972885</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Домашнє завдання до лекції 5">
+      <created>1676458602991</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676458602991</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Домашнє завдання до лекції 6">
+      <created>1677055721977</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677055721977</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Домашнє завдання до лекції 8">
+      <created>1677574931776</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677574931776</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Домашнє завдання до лекції 9">
+      <created>1677776588265</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677776588265</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +172,23 @@
     <MESSAGE value="Домашя робота js2" />
     <MESSAGE value="Домашя робота js3" />
     <MESSAGE value="Виправив помилки і доробив завдання 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Виправив помилки і доробив завдання 7" />
+    <MESSAGE value="Додаткові завдання до лекції 3" />
+    <MESSAGE value="Домашнє завдання до лекції 4" />
+    <MESSAGE value="Домашнє завдання до лекції 5" />
+    <MESSAGE value="Домашнє завдання до лекції 6" />
+    <MESSAGE value="Домашнє завдання до лекції 8" />
+    <MESSAGE value="Домашнє завдання до лекції 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнє завдання до лекції 9" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/extraTaskLesson4/extraTask4.js</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

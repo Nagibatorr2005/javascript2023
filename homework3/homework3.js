@@ -122,7 +122,6 @@ for (let product of products) {
 }
 */
 
-
 /*
 TASK #7
 є масив
