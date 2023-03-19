@@ -1,0 +1,21 @@
+.user-item {
+    display: inline-block;
+    width: 45%;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+    background-color: grey;
+}
+
+.user-item:nth-child(2n) {
+    margin-right: 0;
+}
+
+.user-item button {
+    display: block;
+    margin-top: 10px;
+}
+
+
+

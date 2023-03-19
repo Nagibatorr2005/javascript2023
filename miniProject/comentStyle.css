@@ -1,0 +1,25 @@
+.user{
+    background-color: grey;
+    border: black solid 2px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+.com{
+    background-color: grey;
+    border: black solid 2px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    flex-direction: row;
+}
+
+.unit{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 20%;
+    height: 400px;
+    margin: 5px;
+    background-color: lightslategrey;
+    border: black solid 2px;
+
+}
